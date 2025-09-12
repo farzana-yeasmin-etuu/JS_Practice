@@ -24,4 +24,5 @@ let str4= "hellololo"
 console.log("replace ",str4.replace("lo","p"));
 console.log("replace all",str4.replaceAll("lo","p"));
 
-
+//print character of selected index
+console.log(str3.charAt(12))
