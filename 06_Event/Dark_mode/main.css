@@ -1,0 +1,11 @@
+#btn{
+    color: white;
+    background-color: orangered;
+    border: none;
+    border-radius: 20px;
+}
+
+.dark{
+    color: white;
+    background-color: black;
+}
