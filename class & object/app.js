@@ -8,3 +8,9 @@ const student = {
     },
 
 };
+
+//__proto__
+const student2 = {
+    id:2232334
+}
+student2.__proto__ = student
